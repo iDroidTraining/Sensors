@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sensors</string>
+    <string name="accelerometer_example">Accelerometer Example</string>
+</resources>
